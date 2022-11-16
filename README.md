@@ -6,5 +6,6 @@ Repositórios, commit e versões
 ![preview](https://7h14g0d.github.io/Alura_010/imagens/print2.png)
 ![preview](https://7h14g0d.github.io/Alura_010/imagens/print3.png)
 ![preview](https://7h14g0d.github.io/Alura_010/imagens/Certificado.png)
+.
 
-## 💛💛💛💛💛
+## 💛💛💛💛💛 
